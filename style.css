@@ -1,0 +1,45 @@
+.btn{
+    
+    background-color: black;
+    font: sans-serif;
+    color: white;
+    transition: 0.3s;
+    border: none;
+    padding: 10px 26px;
+
+    
+}
+.btn:hover{
+    
+    padding: 16px 32px;
+    color: black;
+    background-color: white;
+    
+}
+
+.hello{
+    
+    background-color: black;
+    border: none;
+    padding: 16px 32px;
+    transition: 0.3s;
+    color: white;
+        padding: 10px 26px;
+
+
+}
+
+.hello:hover{
+    
+    background-color: white;
+    color: black;
+        padding: 16px 32px;
+
+    
+}
+
+
+
+body {
+background: linear-gradient(to right, #2193b0, #6dd5ed );
+}
